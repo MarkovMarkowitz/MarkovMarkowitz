@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarkovMarkowitz
 - 👀 I’m interested in Finance as a whole and quant algorithms
-- 🌱 I’m currently a student in WQU: wqu.edu
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently a data scientist.
+- 💞️ I’m looking to collaborate on algorithmic trading.
 - 📫 How to reach me: mail to info@markovmarkowitz.com
 
 <!---
