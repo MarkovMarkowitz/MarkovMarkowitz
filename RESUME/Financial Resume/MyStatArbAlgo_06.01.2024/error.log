@@ -1,0 +1,5 @@
+Blueshift Alert(61225)[2023-07-03 15:59:00-04:00](WARNING): order 7146e34c939945938b70322676db0aac for 29.0 units of EquityMargin(AMZN [496]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(61225)[2023-07-03 15:59:00-04:00](WARNING): order d11790f0d9c84616be846be1e74395db for 25.0 units of EquityMargin(AAPL [535]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(61225)[2023-12-23 17:11:48.080933](INFO): Simulated 1000 sessions out of 1000.
+Blueshift Alert(61225)[2023-12-23 17:11:48.081165](INFO): first open: 2020-01-02 00:00:00-05:00
+Blueshift Alert(61225)[2023-12-23 17:11:48.081285](INFO): last simulated: 2023-12-22 00:00:00-05:00
